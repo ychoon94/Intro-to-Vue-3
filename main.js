@@ -4,8 +4,9 @@ const app = Vue.createApp({
             product: 'Socks',
             image: './assets/images/socks_green.jpg',
             // solution
-            url: 'https://www.vuemastery.com/'
+            url: 'https://www.vuemastery.com/',
             // solution
+            URL: 'https://www.google.com/'
         }
     }
 })
